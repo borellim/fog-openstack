@@ -126,7 +126,7 @@ This will return:
 {"X-Account-Bytes-Used"=>"2563554", "Date"=>"Thu, 21 Feb 2013 21:57:02 GMT", "X-Account-Meta-Temp-Url-Key"=>"super_secret_key", "X-Timestamp"=>"1354552916.82056", "Content-Length"=>"0", "Content-Type"=>"application/json; charset=utf-8", "X-Trans-Id"=>"txe934924374a744c8a6c40dd8f29ab94a", "Accept-Ranges"=>"bytes", "X-Account-Container-Count"=>"7", "X-Account-Object-Count"=>"5"}
 ```
 
-To learn more about `Fog::Storage` request methods refer to [rdoc](http://rubydoc.info/gems/fog/Fog/Storage/OpenStack/Real). To learn more about Excon refer to [Excon GitHub repo](https://github.com/geemus/excon).
+To learn more about `Fog::Storage` request methods refer to [rdoc](https://www.rubydoc.info/gems/fog-openstack/Fog/Storage/OpenStack/Real). To learn more about Excon refer to [Excon GitHub repo](https://github.com/geemus/excon).
 
 ### Model Layer
 
